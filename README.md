@@ -31,7 +31,7 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 * [Employment Resources](#employment-resources)
 * [Mom-friendly Companies](#mom-friendly-companies)
     * [Flexible work schedule](#flexible-work-schedule)
-    * [Chidcare available](#chidcare-available)
+    * [Childcare available](#childcare-available)
     * [Paid returnships](#paid-returnships)
     * [Paid maternity leave](#paid-maternity-leave)
     * [Breastfeeding policies](#breastfeeding-policies)
