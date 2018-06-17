@@ -24,9 +24,18 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 * [Financial Assistance](#financial-assistance)
 * [Free Coding Resources](#free-coding-resources)
 * [Childcare](#childcare)
-* [Employment Resources](#employment-resources)
 * [Tech Scholarships](#tech-scholarships)
-* [Conference Scholarships/tickets](#conference-scholarships/tickets)
+* [Conferences](#conferences)
+    * [Scholarships/tickets](#Scholarships/tickets)
+    * [Conferences with Childcare](#Conferences-with-Childcare)
+* [Employment Resources](#employment-resources)
+* [Mom-friendly Companies](#Mom-friendly-Companies)
+    * [Flexible work schedule](#Flexible-work-schedule)
+    * [Chidcare available](#Chidcare-available)
+    * [Paid returnships](#Paid-returnships)
+    * [Paid maternity leave](#Paid-maternity-leave)
+    * [Breastfeeding policies](#Breastfeeding-policies)
+    * [No Benefit Waiting Period](#No-Benefit-Waiting-Period)
 
 
 ----
@@ -48,14 +57,40 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 ### Childcare
 ([Go to top](#moms-learn-tech))
 
-### Employment Resources
-([Go to top](#moms-learn-tech))
-* [Fairy God Boss](#fairygodboss.com) Fairygodboss helps women get hard-to-ask questions answered. They help you get the inside scoop on pay, corporate culture, benefits and work flexibility. They offer company ratings, job listings, discussion boards and career advice.
 
 ### Tech Scholarships
 ([Go to top](#moms-learn-tech))
 * [Flatiron School: Women Take Tech](https://flatironschool.com/women-take-tech-coding-scholarships/) This initiative will extend over $100,000 in scholarship funding – cutting tuition for women in half to $750/month for the online program (maximum tuition is 12 months or $9,000).
 
-### Conference Scholarships/tickets
+## Conferences
+### Scholarships/Tickets
 ([Go to top](#moms-learn-tech))
 * [Grace Hopper Celebration scholarship](https://anitab.org/career-toolbox/ghc-scholarship-grants/)AnitaB.org finds sponsors to award hundreds of student and faculty scholarships to attend the Grace Hopper Celebration. This once in a lifetime chance, allows academics to connect with other women in computing, hear stories from peers and experts in computing, and get quality career advice specific to their needs needs.
+
+### Conferences with Childcare
+([Go to top](#moms-learn-tech))
+* [Grace Hopper Celebration](https://ghc.anitab.org/attend/child-care/) AnitaB.org provides child care services for children ages 0-13 at no charge to conference attendees.You must register your children with Corporate Kids Events, our child care provider.
+
+### Employment Resources
+([Go to top](#moms-learn-tech))
+* [Fairy God Boss](#fairygodboss.com) Fairygodboss helps women get hard-to-ask questions answered. They help you get the inside scoop on pay, corporate culture, benefits and work flexibility. They offer company ratings, job listings, discussion boards and career advice.
+
+## Mom-friendly Companies
+
+### Flexible work schedule
+([Go to top](#moms-learn-tech))
+
+### Childcare available
+([Go to top](#moms-learn-tech))
+
+### Paid returnships
+([Go to top](#moms-learn-tech))
+
+### Paid maternity leave
+([Go to top](#moms-learn-tech))
+
+### Breastfeeding policies
+([Go to top](#moms-learn-tech))
+
+### No Benefit Waiting Period
+([Go to top](#moms-learn-tech))

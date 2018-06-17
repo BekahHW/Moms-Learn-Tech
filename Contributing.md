@@ -1,5 +1,5 @@
 # Contribution Guidelines
-Because this is a volunteer project, we value all the help we can get! Thank you for taking the time to improve this resources database for moms learning technology.
+Because this is a volunteer project, we value all the help we can get! Thank you for taking the time to improve this resources database for moms learning or returning to technology.
 
 
 To keep things organized, we have some guidelines.
@@ -28,4 +28,4 @@ About Pull Request
 Make an individual pull request for each suggestion.
 The pull request and commit should have a useful title. For example, in the category for conference funding,  you might have:  [Conference Funding]: full funding opportunities for women attending X conference.
 
-Thanks again for your contribution to the repo and to moms out there learning to code!
+Thanks again for your contribution to the repo and to moms out there learning or returning to tech!
