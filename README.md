@@ -26,7 +26,7 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 * [Childcare](#childcare)
 * [Tech Scholarships](#tech-scholarships)
 * [Conferences](#conferences)
-    * [Scholarships/tickets](#scholarships/tickets)
+    * [Scholarships and tickets](#scholarships-and-tickets)
     * [Conferences with Childcare](#conferences-with-childcare)
 * [Employment Resources](#employment-resources)
 * [Mom-friendly Companies](#mom-friendly-companies)
@@ -42,7 +42,7 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 
 ### Support Organizations
 ([Go to top](#moms-learn-tech))
-* [Moms Can: Code](momscancode.com) a membership-based community that provides moms who are learning how to code with opportunities to connect & learning resources.
+* [Moms Can: Code](momscancode.com) A global co-learning community that provides moms who are learning how to code with opportunities to connect & learning resources.
 
 ### Financial Assistance
 ([Go to top](#moms-learn-tech))
@@ -63,9 +63,9 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 * [Flatiron School: Women Take Tech](https://flatironschool.com/women-take-tech-coding-scholarships/) This initiative will extend over $100,000 in scholarship funding – cutting tuition for women in half to $750/month for the online program (maximum tuition is 12 months or $9,000).
 
 ## Conferences
-### Scholarships/Tickets
+### Scholarships and Tickets
 ([Go to top](#moms-learn-tech))
-* [Grace Hopper Celebration scholarship](https://anitab.org/career-toolbox/ghc-scholarship-grants/)AnitaB.org finds sponsors to award hundreds of student and faculty scholarships to attend the Grace Hopper Celebration. This once in a lifetime chance, allows academics to connect with other women in computing, hear stories from peers and experts in computing, and get quality career advice specific to their needs needs.
+* [Grace Hopper Celebration scholarship](https://anitab.org/career-toolbox/ghc-scholarship-grants/) AnitaB.org finds sponsors to award hundreds of student and faculty scholarships to attend the Grace Hopper Celebration. This once in a lifetime chance, allows academics to connect with other women in computing, hear stories from peers and experts in computing, and get quality career advice specific to their needs needs.
 
 ### Conferences with Childcare
 ([Go to top](#moms-learn-tech))
