@@ -43,16 +43,17 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 ### Support Organizations
 ([Go to top](#moms-learn-tech))
 * [Moms Can: Code](momscancode.com) A global co-learning community that provides moms who are learning how to code with opportunities to connect & learning resources.
+* [Techtonica](http://techtonica.org) A nonprofit that provides free tech training with living and childcare stipends and job placement. (Only in the San Francisco Bay Area as of 6/18/2018.)
 
 ### Financial Assistance
 ([Go to top](#moms-learn-tech))
 * [Anitab.org](https://anitab.org/awards-grants/) recognizes the accomplishments of women in computing, and the organizations that recognize their value, through a variety of awards.
-
+* [Techtonica](http://techtonica.org) A nonprofit that provides free tech training with living and childcare stipends and job placement. (Only in the San Francisco Bay Area as of 6/18/2018.)
 
 ### Free Coding Resources
 ([Go to top](#moms-learn-tech))
 * [Free Code Camp](freecodecamp.org) An organization that has thousands of coding lessons to help you improve your skills for free.
-
+* [Techtonica](http://techtonica.org) A nonprofit that provides free tech training with living and childcare stipends and job placement. (Only in the San Francisco Bay Area as of 6/18/2018.)
 
 ### Childcare
 ([Go to top](#moms-learn-tech))
@@ -61,6 +62,7 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 ### Tech Scholarships
 ([Go to top](#moms-learn-tech))
 * [Flatiron School: Women Take Tech](https://flatironschool.com/women-take-tech-coding-scholarships/) This initiative will extend over $100,000 in scholarship funding – cutting tuition for women in half to $750/month for the online program (maximum tuition is 12 months or $9,000).
+* [Techtonica](http://techtonica.org) A nonprofit that provides free tech training with living and childcare stipends and job placement. (Only in the San Francisco Bay Area as of 6/18/2018.)
 
 ## Conferences
 ### Scholarships and Tickets
