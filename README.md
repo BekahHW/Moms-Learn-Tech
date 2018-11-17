@@ -44,6 +44,7 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 ([Go to top](#moms-learn-tech))
 * [Moms Can: Code](momscancode.com) A global co-learning community that provides moms who are learning how to code with opportunities to connect & learning resources.
 * [Techtonica](http://techtonica.org) A nonprofit that provides free tech training with living and childcare stipends and job placement. (Only in the San Francisco Bay Area as of 6/18/2018.)
+* [Mums in Tech](http://mumsintechnology.co.uk) Mums in Technology is the UK’s most popular coding school for mums. We offer a unique and flexible way of learning that fits around your lifestyle, your children and your ambitions
 
 ### Financial Assistance
 ([Go to top](#moms-learn-tech))
