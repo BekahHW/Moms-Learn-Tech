@@ -36,6 +36,7 @@ Below you'll find a list of resources to help moms at all stages of their tech l
     * [Paid maternity leave](#paid-maternity-leave)
     * [Breastfeeding policies](#breastfeeding-policies)
     * [No Benefit Waiting Period](#no-benefit-waiting-period)
+    * [Modern Icons](#modern-icons)
 
 
 ----
@@ -45,6 +46,8 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 * [Moms Can: Code](momscancode.com) A global co-learning community that provides moms who are learning how to code with opportunities to connect & learning resources.
 * [Techtonica](http://techtonica.org) A nonprofit that provides free tech training with living and childcare stipends and job placement. (Only in the San Francisco Bay Area as of 6/18/2018.)
 * [Mums in Tech](http://mumsintechnology.co.uk) Mums in Technology is the UK’s most popular coding school for mums. We offer a unique and flexible way of learning that fits around your lifestyle, your children and your ambitions
+* [Simplon.co](https://simplon.co/100codinggirls/) French  patners program for reduce the gender gap #CodeHasNoGender
+* [Code First Girls](https://www.codefirstgirls.org.uk/)​Code First: Girls works with companies and with men and women directly, to help increase the number of women in tech (UK)
 
 ### Financial Assistance
 ([Go to top](#moms-learn-tech))
@@ -97,3 +100,26 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 
 ### No Benefit Waiting Period
 ([Go to top](#moms-learn-tech))
+
+### Modern icons
+([Go to top](#modern-icons))
+
+ - **Holly Brockwell** :
+ Holly Brockwell founded technology news site Gadgette in May. It’s a gadget and technology news site that’s focused on women, an audience that many tech sites struggle to write for.
+
+ - **Avid Larizadeh Duggan** :
+ Along with Tom Hulme, Larizadeh Duggan is one of Google Ventures’ two remaining partners in Europe. She’s also the only female general partner at the fund. Larizadeh Duggan led Google Ventures’ investment into Yieldify, a two-year-old e-commerce startup that helps online retailers convince people to buy products online.
+
+ - **Claire Valoti** :
+ Claire Valoti was recently poached from her role as joint head of agency relations at Facebook to head up Snapchat’s European operation from London.
+ She works as Snapchat’s general manager of UK sales, overseeing the company’s first office outside the US. The company has made a series of hires for its European team from rival digital media and tech businesses over the past year.
+
+ - **Julie Larson-Green** :
+ Last summer, Microsoft announced that they were promoting previous Windows Chief and 20-year Microsoft veteran Julie Larson-Green to oversee the entire company's hardware engineering.
+
+ This meant that Larson-Green was responsible for overseeing all devices, games, music, video and other entertainment as well as the 'Operating Systems Engineering Group' which includes the Xbox OS.
+
+ Despite a predictably sexist backlash to her appointment, Larson-Green brought a wealth of experience from her time overseeing the developers of Windows 7 and 8 to bear in the hardware division. Insider sources report that at one point, she had between 1,200 and 1,400 program managers, researchers, content managers and other members of the Windows team reporting to her.
+
+- **Juliana Rotich** :
+The executive director of Ushahidi, a not-for-profit company that develops free open-source software, Juliana Rotich has pioneered new web tools for crowdsourcing crisis information. Originally from Kenya, she studied IT at university and became a well known blogger. Her software firm first came to prominence during the Kenyan presidential election crisis in 2007, using web, mobile and geolocation data to provide report updates.
