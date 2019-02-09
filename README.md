@@ -76,6 +76,8 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 ([Go to top](#moms-learn-tech))
 * [Grace Hopper Celebration](https://ghc.anitab.org/attend/child-care/) AnitaB.org provides child care services for children ages 0-13 at no charge to conference attendees.You must register your children with Corporate Kids Events, our child care provider.
 
+* [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/events) provides complimentary 8am-5pm childcare at both EU and US locations. Registration required (see the "attend" page on the event for details).
+
 ### Employment Resources
 ([Go to top](#moms-learn-tech))
 * [Fairy God Boss](#fairygodboss.com) Fairygodboss helps women get hard-to-ask questions answered. They help you get the inside scoop on pay, corporate culture, benefits and work flexibility. They offer company ratings, job listings, discussion boards and career advice.
