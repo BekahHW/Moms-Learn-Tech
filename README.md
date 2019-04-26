@@ -47,6 +47,10 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 * [Techtonica](http://techtonica.org) A nonprofit that provides free tech training with living and childcare stipends and job placement. (Only in the San Francisco Bay Area as of 6/18/2018.)
 * [Simplon.co](https://simplon.co/100codinggirls/) French  patners program for reduce the gender gap #CodeHasNoGender
 * [Code First Girls](https://www.codefirstgirls.org.uk/)​Code First: Girls works with companies and with men and women directly, to help increase the number of women in tech (UK)
+* [Tech Ladies](https://new.hiretechladies.com/) Tech Ladies: resources, community, and a job board updated weekly that requires sign-up to see. Many remote positions and in the job postings indicates work-life balance and mom-friendly perks.
+* [Ladies Get Paid](https://www.ladiesgetpaid.com/) Ladies Get Paid: An organization working hard for equal pay, with an incredible community that you can find on their slack channel and panel events. They will help you know your worth and learn how to negotiate for it.
+* [NothingLess](https://nothingless.co/) A microsite made by Ladies get Paid and Hired to educate the public on the pay gap. It's a great place to look for stories that will inspire.
+* [Hired](https://hired.com/login) A job site that is dedicated to helping women succeed in careers.
 
 ### Financial Assistance
 ([Go to top](#moms-learn-tech))
@@ -71,6 +75,7 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 ### Scholarships and Tickets
 ([Go to top](#moms-learn-tech))
 * [Grace Hopper Celebration scholarship](https://anitab.org/career-toolbox/ghc-scholarship-grants/) AnitaB.org finds sponsors to award hundreds of student and faculty scholarships to attend the Grace Hopper Celebration. This once in a lifetime chance, allows academics to connect with other women in computing, hear stories from peers and experts in computing, and get quality career advice specific to their needs needs.
+* [Dataquest.io Diversity Scholarship](https://www.dataquest.io/blog/dataquest-women-data-science-scholarship/) A scholarship for summer 2019 that will help women and minorities get started in studying Data Science.
 
 ### Conferences with Childcare
 ([Go to top](#moms-learn-tech))
