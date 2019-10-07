@@ -43,7 +43,6 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 
 ### Support Organizations
 ([Go to top](#moms-learn-tech))
-* [Moms Can: Code](momscancode.com) A global co-learning community that provides moms who are learning how to code with opportunities to connect & learning resources.
 * [Techtonica](http://techtonica.org) A nonprofit that provides free tech training with living and childcare stipends and job placement. (Only in the San Francisco Bay Area as of 6/18/2018.)
 * [Simplon.co](https://simplon.co/100codinggirls/) French  patners program for reduce the gender gap #CodeHasNoGender
 * [Code First Girls](https://www.codefirstgirls.org.uk/)​Code First: Girls works with companies and with men and women directly, to help increase the number of women in tech (UK)
