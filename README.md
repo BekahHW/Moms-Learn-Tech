@@ -50,6 +50,7 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 * [Ladies Get Paid](https://www.ladiesgetpaid.com/) Ladies Get Paid: An organization working hard for equal pay, with an incredible community that you can find on their slack channel and panel events. They will help you know your worth and learn how to negotiate for it.
 * [NothingLess](https://nothingless.co/) A microsite made by Ladies get Paid and Hired to educate the public on the pay gap. It's a great place to look for stories that will inspire.
 * [Hired](https://hired.com/login) A job site that is dedicated to helping women succeed in careers.
+* [Career Karma](https://careerkarma.com/) Career Karma is a community of peers, mentors and coaches that will help you land a dream career in Tech. You never pay a dime. The only cost is to help people behind you. Career Karma is always free for students because after we coach you to prepare and get enrolled into a bootcamp in our network, the school pays us a placement fee for helping you.
 
 ### Financial Assistance
 ([Go to top](#moms-learn-tech))
@@ -84,6 +85,8 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 
 * [All HasGeek Conferences](https://hasgeek.com) have professionally run childcare facilities at the conference, free of charge. Event registration and confirmation required.
 
+* [RubyConf](https://rubyconf.org) During all conference days, they provide free onsite childcare from a licensed local provider. Attendees can use this as much or as little as they’d like but the conference does appreciate as much advance information as possible so that they can try to ensure they have enough childcare staff and appropriate activities and gear. When you register, please answer yes (or maybe) to the question about childcare and you will be contacted for information before the conference. They also provide **a dedicated Lactation Room (with a lock and mini-fridge).** If you would like to use this, please note that at registration.
+
 ### Employment Resources
 ([Go to top](#moms-learn-tech))
 * [Fairy God Boss](#fairygodboss.com) Fairygodboss helps women get hard-to-ask questions answered. They help you get the inside scoop on pay, corporate culture, benefits and work flexibility. They offer company ratings, job listings, discussion boards and career advice.
@@ -91,6 +94,8 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 ## Mom-friendly Companies
 
 ### Flexible work schedule
+* [Kenna Security](https://www.kennasecurity.com/careers/) Kenna Security offers an amazing culture for moms and all parents alike. The work schedule is very flexbile and includes allowing employees to work from home when needed. A lot of the employees(engineers and upper level management) are parents and they understand and encourage work life balance to its fullest. 
+
 ([Go to top](#moms-learn-tech))
 
 ### Childcare available
