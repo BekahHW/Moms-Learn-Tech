@@ -92,6 +92,7 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 
 ### Flexible work schedule
 ([Go to top](#moms-learn-tech))
+* [Kenna Security](https://www.kennasecurity.com/careers/) Kenna Security offers an amazing culture for moms and all parents alike. The work schedule is very flexible and includes allowing employees to work from home when needed. A lot of the employees(engineers and upper-level management) are parents and they understand and encourage work-life balance to its fullest.  
 
 ### Childcare available
 ([Go to top](#moms-learn-tech))
