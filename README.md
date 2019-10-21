@@ -53,9 +53,13 @@ Use the following template:
 * [Moms Can & Co](https://www.momscan.co/) Moms Can & Co: Moms Can & Co optimizes moms for remote careers in tech with online training, resources and remote jobs newsletter.
 * [NothingLess](https://nothingless.co/) A microsite made by Ladies get Paid and Hired to educate the public on the pay gap. It's a great place to look for stories that will inspire.
 * [Hired](https://hired.com/login) A job site that is dedicated to helping women succeed in careers.
+
+* [Career Karma](https://careerkarma.com/) Career Karma is a community of peers, mentors, and coaches that will help you land a dream career in Tech. You never pay a dime. The only cost is to help people behind you. Career Karma is always free for students because after we coach you to prepare and get enrolled in a bootcamp in our network, the school pays us a placement fee for helping you.
+
 * [Girls Who Code](https://girlswhocode.com/) A nonprofit dedicated to teaching programming and offering support to girls and women. Has programs for 3rd-5th grade girls, 6th-12th grade girls and women in college
 
 * [Women Who Code](https://www.womenwhocode.com/) A nonprofit dedicated to teaching programming and technical skills to women, and encouraging proportional representation of women in leadership roles within companies
+
 
 
 ### Financial Assistance
