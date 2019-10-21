@@ -50,7 +50,10 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 * [Ladies Get Paid](https://www.ladiesgetpaid.com/) Ladies Get Paid: An organization working hard for equal pay, with an incredible community that you can find on their slack channel and panel events. They will help you know your worth and learn how to negotiate for it.
 * [NothingLess](https://nothingless.co/) A microsite made by Ladies get Paid and Hired to educate the public on the pay gap. It's a great place to look for stories that will inspire.
 * [Hired](https://hired.com/login) A job site that is dedicated to helping women succeed in careers.
+* [Girls Who Code](https://girlswhocode.com/) A nonprofit dedicated to teaching programming and offering support to girls and women. Has programs for 3rd-5th grade girls, 6th-12th grade girls and women in college
+
 * [Women Who Code](https://www.womenwhocode.com/) A nonprofit dedicated to teaching programming and technical skills to women, and encouraging proportional representation of women in leadership roles within companies
+
 
 ### Financial Assistance
 ([Go to top](#moms-learn-tech))
