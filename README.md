@@ -48,6 +48,8 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 * [Code First Girls](https://www.codefirstgirls.org.uk/)​Code First: Girls works with companies and with men and women directly, to help increase the number of women in tech (UK)
 * [Tech Ladies](https://new.hiretechladies.com/) Tech Ladies: resources, community, and a job board updated weekly that requires sign-up to see. Many remote positions and in the job postings indicates work-life balance and mom-friendly perks.
 * [Ladies Get Paid](https://www.ladiesgetpaid.com/) Ladies Get Paid: An organization working hard for equal pay, with an incredible community that you can find on their slack channel and panel events. They will help you know your worth and learn how to negotiate for it.
+Use the following template:
+* [Moms Can & Co](https://www.momscan.co/) Moms Can & Co: Moms Can & Co optimizes moms for remote careers in tech with online training, resources and remote jobs newsletter.
 * [NothingLess](https://nothingless.co/) A microsite made by Ladies get Paid and Hired to educate the public on the pay gap. It's a great place to look for stories that will inspire.
 * [Hired](https://hired.com/login) A job site that is dedicated to helping women succeed in careers.
 * [Girls Who Code](https://girlswhocode.com/) A nonprofit dedicated to teaching programming and offering support to girls and women. Has programs for 3rd-5th grade girls, 6th-12th grade girls and women in college
