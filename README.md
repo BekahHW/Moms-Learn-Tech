@@ -88,6 +88,8 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 
 * [All HasGeek Conferences](https://hasgeek.com) have professionally run childcare facilities at the conference, free of charge. Event registration and confirmation required.
 
+* [RubyConf](https://rubyconf.org) During all conference days, they provide free onsite childcare from a licensed local provider. Attendees can use this as much or as little as they’d like but the conference does appreciate as much advance information as possible so that they can try to ensure they have enough childcare staff and appropriate activities and gear. When you register, please answer yes (or maybe) to the question about childcare and you will be contacted for information before the conference. They also provide **a dedicated Lactation Room (with a lock and mini-fridge).** If you would like to use this, please note that at registration.
+
 ### Employment Resources
 ([Go to top](#moms-learn-tech))
 * [Fairy God Boss](#fairygodboss.com) Fairygodboss helps women get hard-to-ask questions answered. They help you get the inside scoop on pay, corporate culture, benefits and work flexibility. They offer company ratings, job listings, discussion boards and career advice.
