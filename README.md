@@ -43,13 +43,13 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 
 ### Support Organizations
 ([Go to top](#moms-learn-tech))
-* [Techtonica](http://techtonica.org) A nonprofit that provides free tech training with living and childcare stipends and job placement. (Only in the San Francisco Bay Area as of 6/18/2018.)
-* [Simplon.co](https://simplon.co/100codinggirls/) French  patners program for reduce the gender gap #CodeHasNoGender
-* [Code First Girls](https://www.codefirstgirls.org.uk/)​Code First: Girls works with companies and with men and women directly, to help increase the number of women in tech (UK)
-* [Tech Ladies](https://new.hiretechladies.com/) Tech Ladies: resources, community, and a job board updated weekly that requires sign-up to see. Many remote positions and in the job postings indicates work-life balance and mom-friendly perks.
+* [Code First Girls](https://www.codefirstgirls.org.uk/) ​Code First: Girls works with companies and with men and women directly, to help increase the number of women in tech (UK)
+* [Hired](https://hired.com/login) A job site that is dedicated to helping women succeed in careers.
 * [Ladies Get Paid](https://www.ladiesgetpaid.com/) Ladies Get Paid: An organization working hard for equal pay, with an incredible community that you can find on their slack channel and panel events. They will help you know your worth and learn how to negotiate for it.
 * [NothingLess](https://nothingless.co/) A microsite made by Ladies get Paid and Hired to educate the public on the pay gap. It's a great place to look for stories that will inspire.
-* [Hired](https://hired.com/login) A job site that is dedicated to helping women succeed in careers.
+* [Simplon.co](https://simplon.co/100codinggirls/) French  patners program for reduce the gender gap #CodeHasNoGender
+* [Tech Ladies](https://new.hiretechladies.com/) Tech Ladies: resources, community, and a job board updated weekly that requires sign-up to see. Many remote positions and in the job postings indicates work-life balance and mom-friendly perks.
+* [Techtonica](http://techtonica.org) A nonprofit that provides free tech training with living and childcare stipends and job placement. (Only in the San Francisco Bay Area as of 6/18/2018.)
 
 ### Financial Assistance
 ([Go to top](#moms-learn-tech))
