@@ -74,6 +74,7 @@ Use the following template:
 ([Go to top](#moms-learn-tech))
 * [Django Girls](https://tutorial.djangogirls.org/) An organization that encourages women to learn web development offers a tutorial to learn the Django framework with zero background knowledge. It's availabe in several languages.
 * [Free Code Camp](freecodecamp.org) An organization that has thousands of coding lessons to help you improve your skills for free.
+* [Rails Girls](http://guides.railsgirls.com/) An organization that offers guides to learn Ruby and Ruby on Rails framework by building projects.
 * [Techtonica](http://techtonica.org) A nonprofit that provides free tech training with living and childcare stipends and job placement. (Only in the San Francisco Bay Area as of 6/18/2018.)
 
 ### Childcare
