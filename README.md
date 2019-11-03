@@ -69,6 +69,7 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 ### Tech Scholarships
 ([Go to top](#moms-learn-tech))
 * [Flatiron School: Women Take Tech](https://flatironschool.com/women-take-tech-coding-scholarships/) This initiative will extend over $100,000 in scholarship funding – cutting tuition for women in half to $750/month for the online program (maximum tuition is 12 months or $9,000).
+* [Platzi: Single Moms' Scholarship](https://platzi.com/blog/beca-madres/) Platzi is an online platform to learn programming. This scolarship is aimed to help Spanish speaking single mothers who want to learn to code but can not afford Platzi's subscription fee.
 * [Techtonica](http://techtonica.org) A nonprofit that provides free tech training with living and childcare stipends and job placement. (Only in the San Francisco Bay Area as of 6/18/2018.)
 
 ## Conferences
