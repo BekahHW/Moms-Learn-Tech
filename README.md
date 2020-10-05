@@ -120,6 +120,8 @@ Use the following template:
 
 ### Flexible work schedule
 ([Go to top](#moms-learn-tech))
+* [FireHydrant](https://firehydrant.io/careers) FireHydrant is a remote-first company based out of NYC, NY. The culture is incredible, offers a flexible work schedule, and is very understanding of parental duties. Maintaining a work-life balance and one's mental health is emphasized by the company from the top, down. *(bonus: entry-level friendly)*
+
 * [Kenna Security](https://www.kennasecurity.com/careers/) Kenna Security offers an amazing culture for moms and all parents alike. The work schedule is very flexible and includes allowing employees to work from home when needed. A lot of the employees(engineers and upper-level management) are parents and they understand and encourage work-life balance to its fullest.  
 
 ### Childcare available
