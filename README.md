@@ -124,6 +124,8 @@ Use the following template:
 
 * [Kenna Security](https://www.kennasecurity.com/careers/) Kenna Security offers an amazing culture for moms and all parents alike. The work schedule is very flexible and includes allowing employees to work from home when needed. A lot of the employees(engineers and upper-level management) are parents and they understand and encourage work-life balance to its fullest.  
 
+* [The Mom Project](https://themomproject.com/)  The Mom Project connects moms and companies who understand that moms need a flexible work schedule for a healthy work/life balance. You supply a profile and then you are contacted when a potential fit is found. 
+
 ### Childcare available
 ([Go to top](#moms-learn-tech))
 
@@ -132,6 +134,7 @@ Use the following template:
 
 ### Paid maternity leave
 ([Go to top](#moms-learn-tech))
+
 
 ### Breastfeeding policies
 ([Go to top](#moms-learn-tech))
