@@ -45,6 +45,9 @@ Below you'll find a list of resources to help moms at all stages of their tech l
 ([Go to top](#moms-learn-tech))
 
 * [Code First Girls](https://www.codefirstgirls.org.uk/) ​Code First: Girls works with companies and with men and women directly, to help increase the number of women in tech (UK)
+
+* [Girls in Tech](https://www.girlsintech.org/) ​Girls in Tech: A non-profit organization that offers virtual events and workshops for personal & professional growth, a tech job board, and in-person events for chapters worldwide. 
+
 * [Hired](https://hired.com/login) A job site that is dedicated to helping women succeed in careers.
 
 * [Mums in Tech](http://mumsintechnology.co.uk) Mums in Technology is the UK’s most popular coding school for mums. We offer a unique and flexible way of learning that fits around your lifestyle, your children and your ambitions
