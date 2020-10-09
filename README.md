@@ -134,7 +134,7 @@ Use the following template:
 
 ### Paid maternity leave
 ([Go to top](#moms-learn-tech))
-
+* [Marsh & McLennan](https://careers.mmc.com/global/en) The Arizona branch of Marsh & McLennan offers 8 weeks of fully paid parental leave to be taken in increments as small as half-days or as large as the entire 8 weeks within the first year starting after a birth or adoption. The tech jobs at the Arizona offices are currently in digital marketing. 
 
 ### Breastfeeding policies
 ([Go to top](#moms-learn-tech))
