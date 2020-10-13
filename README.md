@@ -134,6 +134,7 @@ Use the following template:
 
 ### Paid returnships
 ([Go to top](#moms-learn-tech))
+* [Facebook](https://www.facebook.com/careers/facebook-life/return-to-work) Facebook offers a 16-week paid immersive return-to-work program created for people who have been out of the workforce for at least 2 years. While there are plenty of technical engineering and research positions, there are also business operations, supply chain, and program management positions available. These positions range from internships to full-time and they all offer mentorship.
 
 ### Paid maternity leave
 ([Go to top](#moms-learn-tech))
