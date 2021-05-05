@@ -66,6 +66,8 @@ Use the following template:
 
 * [Women Who Code](https://www.womenwhocode.com/) A nonprofit dedicated to teaching programming and technical skills to women, and encouraging proportional representation of women in leadership roles within companies
 
+* [Virtual Coffee](https://virtualcoffee.io/) A welcoming tech community that allows room for growth and mentorship at all levels, and creates meaningful opportunities for learning, leadership, and contribution for everyone. Holds zoom sessions twice a week, monthly challenges, member events, and more.
+
 
 
 ### Financial Assistance
