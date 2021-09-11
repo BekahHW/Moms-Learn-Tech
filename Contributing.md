@@ -22,11 +22,13 @@ Determine what category it falls into.
 (empty line)
 ```
 
-
 ### MISC.
 If there’s not a relevant category, we welcome new categories.
 If you think the categories should be updated and reorganized, go for it!
 Always proofread your spelling and grammar.
+
+## Adding issues
+If you have ideas for how to expand this repository or make to turn it into something more useful, we'd love to hear about it! Create an issue, and we'll get to it as soon as we can.
 
 ## About Pull Requests
 Make an individual pull request for each suggestion.
