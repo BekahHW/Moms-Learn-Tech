@@ -1,7 +1,9 @@
 
 
 # MOMS LEARN TECH
-Everyone's talking about the gender gap in the tech industry. There's been a large push for increasing funding for women to learn tech. Although this is a move in the right direction, it doesn't cover the challenges that moms learning tech are facing.
+We talk a lot about the gender gap in the tech industry. And now--more than ever--moms are finding themselves [disproportionately affected by the pandemic](https://www.census.gov/library/stories/2021/03/moms-work-and-the-pandemic.html). We can fund moms learning experiences, but if we don't provide support for the challenges and workplaces that offer flexible and accomodating environments, we won't *really* be making progress.
+
+This purpose of this repository is to provide a space to collect resources and recommendations for moms in tech.
 
 ## CHALLENGES
  Many moms are either coming back into the tech field after spending time to raise children or are learning for the first time in order to provide for their children.
