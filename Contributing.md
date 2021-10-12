@@ -1,9 +1,8 @@
 # Contribution Guidelines
 Because this is a volunteer project, we value all the help we can get! Thank you for taking the time to improve this resources database for moms learning or returning to technology.
 
-
 To keep things organized, we have some guidelines.
- Content
+
 ## BEFORE YOU SUBMIT
 Determine if your submission is relevant by comparing it to the established list and the descriptions.
 Be sure your submission hasn’t previously been entered. You can do this by searching through previous submissions.
