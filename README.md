@@ -153,6 +153,9 @@ Use the following template:
 ## Mentoring Resources
 ([Go to top](#moms-learn-tech))
 
+* [Coding Coach](https://codingcoach.io/)  Coding Coach is a free, open-source platform that aims to connect you with mentors from all over the world to help you sharpen your programming skills.
+* [YearOne](https://www.joinyearone.io/)  A developer community that helps developers from non-traditional backgrounds like self-taught developers and bootcamp grads in the early years of their career. The platform provides support in the form of interview preparation, resume review, mentorship and a host of other resources. 
+
 ### Modern icons
 ([Go to top](#modern-icons))
 
