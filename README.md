@@ -38,6 +38,7 @@ Below you'll find a list of resources to help moms at all stages of their tech l
     * [Paid maternity leave](#paid-maternity-leave)
     * [Breastfeeding policies](#breastfeeding-policies)
     * [No Benefit Waiting Period](#no-benefit-waiting-period)
+* [Mentoring Resources](#mentoring-resources)
 * [Modern Icons](#modern-icons)
 
 
@@ -147,6 +148,9 @@ Use the following template:
 ([Go to top](#moms-learn-tech))
 
 ### No Benefit Waiting Period
+([Go to top](#moms-learn-tech))
+
+## Mentoring Resources
 ([Go to top](#moms-learn-tech))
 
 ### Modern icons
